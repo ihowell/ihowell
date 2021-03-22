@@ -16,7 +16,7 @@ Deep learning, Python, C++, JavaScript (and its frameworks), Optimization
 
 ### I'm looking to collaborate on
 
-Anything! I have an unconventional backgroundd for working in deep learning, and I'm interested in the overlap between my past and current work.
+Anything! I have an unconventional background for working in deep learning, and I'm interested in the overlap between my past and current work.
 
 <!--
 **ihowell/ihowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
