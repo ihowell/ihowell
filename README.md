@@ -2,6 +2,8 @@
 
 ## TL;DR: I am a Ph.D. student studying the interpretability in deep learning looking for industrial research positions
 
+Take a look at my [github.io](https://ihowell.github.io) to see my past publications and blog.
+
 - Pronouns: he/him
 - Twitter: @ihowrue
 - Currently learning about: generative models and what makes an interpretability method useful
